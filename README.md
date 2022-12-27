@@ -1,1 +1,1 @@
-# python-revisão
+# Exercícios curso Mundo Python
